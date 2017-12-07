@@ -1,0 +1,23 @@
+a {
+  color: #1a237e !important;
+}
+.card {
+  width: 40%;
+  margin: 1%;
+  float: left;
+  min-height: 300px;
+  opacity: 0.9;
+}
+#hazardous-true{
+  background-color: #ecf401;
+}
+#hazardous-false{
+  background-color: #00c000;
+}
+.hoverable:hover{
+  box-shadow: 10px 10px 5px black;
+  z-index:1;
+}
+.intro {
+  color: #ffffff !important;
+}
